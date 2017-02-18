@@ -1,0 +1,57 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+.wrapper{
+	height: 100%;
+	width: 100%;
+	border:2px solid red;
+
+}
+
+.left{
+	border:2px solid blue;
+	height: 100%;
+	width: 44%;
+	float: left;
+
+}
+
+
+
+.heading{
+
+
+}
+
+
+.logo{
+	size: 20%;
+}
+
+
+
+
+
+
+
+
+
+.right{
+	border:2px solid blue;
+	height: 100%;
+	width: 54%;
+	float: right;
+	padding-bottom: 25%;
+}
+
+.Soft{
+	height: 30%;
+	width: 50%;
+}
+
+.Edu{
+	height: 10%;
+	width: 20%;
+}
